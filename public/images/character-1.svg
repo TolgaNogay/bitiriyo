@@ -1,0 +1,13 @@
+<svg width="60" height="80" viewBox="0 0 60 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="20" r="15" stroke="black" stroke-width="2" fill="none"/>
+  <path d="M30 35 L30 60" stroke="black" stroke-width="2"/>
+  <path d="M30 40 L20 50" stroke="black" stroke-width="2"/>
+  <path d="M30 40 L40 50" stroke="black" stroke-width="2"/>
+  <path d="M30 60 L20 75" stroke="black" stroke-width="2"/>
+  <path d="M30 60 L40 75" stroke="black" stroke-width="2"/>
+  <path d="M25 15 C25 15, 27 20, 30 20" stroke="black" stroke-width="2"/>
+  <path d="M35 15 C35 15, 33 20, 30 20" stroke="black" stroke-width="2"/>
+  <path d="M25 25 Q30 30 35 25" stroke="black" stroke-width="2" fill="none"/>
+  <!-- saç tokası -->
+  <path d="M30 5 Q35 0 40 5" stroke="black" stroke-width="2" fill="none"/>
+</svg> 
